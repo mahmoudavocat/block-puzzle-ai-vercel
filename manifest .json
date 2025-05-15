@@ -1,0 +1,47 @@
+{
+  "name": "Block Puzzle AI",
+  "short_name": "PuzzleAI",
+  "description": "لعبة ذكاء وتحدي بنظام ذكاء اصطناعي يتفاعل معك صوتيًا!",
+  "id": "/",
+  "start_url": "./",
+  "display": "standalone",
+  "display_override": [
+    "fullscreen",
+    "standalone",
+    "window-controls-overlay"
+  ],
+  "orientation": "portrait",
+  "theme_color": "#1c0b2b",
+  "background_color": "#1c0b2b",
+  "categories": ["games"],
+
+  "launch_handler": {
+    "client_mode": "focus-existing"
+  },
+
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+
+  "screenshots": [
+    {
+      "src": "screenshot1.png",
+      "sizes": "540x960",
+      "type": "image/png"
+    },
+    {
+      "src": "screenshot2.png",
+      "sizes": "540x960",
+      "type": "image/png"
+    }
+  ]
+}

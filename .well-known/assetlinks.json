@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.vercel.block_puzzle_ai_clean.twa",
+        "sha256_cert_fingerprints": ["AE:26:9A:23:FD:4A:E5:F5:17:21:3A:1A:3E:57:E7:E5:0F:DA:F6:4E:66:6B:A1:EB:61:14:9C:6C:06:43:53:86"]
+      }
+    }]
